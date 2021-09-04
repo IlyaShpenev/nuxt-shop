@@ -1,0 +1,21 @@
+[
+  {
+    "label": "First name",
+    "name": "name",
+    "type": "text",
+    "placeholder": "name"
+  },
+  {
+    "label": "Email",
+    "name": "email",
+    "type": "email",
+    "placeholder": "name@example.com"
+  },
+  {
+    "label": "Phone number",
+    "name": "phone",
+    "type": "tel",
+    "placeholder": "+7"
+  }
+]
+
